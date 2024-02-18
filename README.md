@@ -1,5 +1,5 @@
-<h1> 
+<h1 align="center"> 
 Makima Bot
-<img src="/assets/makima.bot.png" alt="Makima-Bot">
+<img src="/assets/makimabot.png" alt="Makima-Bot">
 
 </h1>
